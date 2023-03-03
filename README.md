@@ -33,7 +33,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajianaz&theme=tokyonight&border_radius=15)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajianaz&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmawardi&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
